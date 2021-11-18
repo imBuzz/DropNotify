@@ -1,0 +1,4 @@
+message:
+  dropMessage: "&a+%number% %item%"
+  reloadMessage: "&aDropNotify Reloaded!"
+  noPermission: "&cYou don't have the permission to do that!"

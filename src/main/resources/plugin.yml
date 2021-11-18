@@ -1,0 +1,8 @@
+name: DropNotify
+version: '${project.version}'
+main: me.imbuzz.dev.dropnotify.DropNotify
+authors: [ ImBuzz ]
+
+commands:
+  notifyreload:
+    description: Reload the plugin's configuration
